@@ -1,6 +1,6 @@
 ## Setting up a React Project
 
-In the Road to React, we'll use [create-react-app](https://github.com/facebook/create-react-app) to bootstrap your application. It's an opinionated yet zero-configuration starter kit for React introduced by Facebook in 2016, which is [recommended for beginners by 96% of React users](https://twitter.com/dan_abramov/status/806985854099062785). In *create-react-app*, the tools and configurations evolve in the background, while the focus remains on the application's implementation.
+In the Road to React, we'll use [create-react-app](https://github.com/facebook/create-react-app) to bootstrap your application. It's an opinionated yet zero-configuration starter kit for React introduced by Facebook in 2016, which is recommended for beginners by React users. In *create-react-app*, the tools and configurations evolve in the background, while the focus remains on the application's implementation.
 
 After installing Node and npm, use the command line to type the following command in a dedicated folder for your project. We'll refer to this project as *hacker-stories*, but you may choose any name you like:
 
